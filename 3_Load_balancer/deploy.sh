@@ -25,6 +25,6 @@ docker-compose --version
 git --version
 
 # Clonar el repositorio y ejecutar Docker Compose
-git clone https://github.com/docker-compose-marlon/odoo-docker-compose
+git clone https://github.com/WilmerPuma/Infraestructura/tree/main/apache-docker
 cd apache-docker
 docker-compose up -d
