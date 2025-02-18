@@ -1,7 +1,0 @@
-##########
-Descargar las carpetas e ingresar en cada una y abrir el archivo main.tf
-
-1.- Antes de ejecutar el archivo cambiar a una suscripsion valida de azure  solo con el IDE 
-
-
-Este codigo ejecuta una instalacia de ODoo15
